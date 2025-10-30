@@ -128,5 +128,4 @@ Subsequent project stages will involve:
 
 ## 📬 Contact
 
-📧 *your.email@example.com*  
-🔗 GitHub: [your-github-username](https://github.com/your-github-username)
+📧 *drkrishnan@yahoo.com*  
